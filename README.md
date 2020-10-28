@@ -1,2 +1,2 @@
-# Artur-Angulat-Bookmark
+# Artur-Angular-Bookmark
 Web Link Bookmark app
